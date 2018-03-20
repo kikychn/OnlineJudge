@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="aha_algorithms"/>
+	<classpathentry kind="src" path="hihocoder"/>
+	<classpathentry kind="src" path="leetCode"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="剑指Offer"/>
+	<classpathentry kind="src" path="牛客模拟题20180314"/>
+	<classpathentry kind="src" path="牛客练习赛13"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
