@@ -9,6 +9,7 @@ public class MoreThanHalfNum_Solution_29 {
 
     public static void main(String[] args) {
         int[] array = { 1, 2, 3, 2, 4, 2, 5, 2, 3 };
+//        int[] array = { 1, 2, 3, 2, 2, 2, 5, 4, 2 };
 
         int result = MoreThanHalfNum_Solution(array);
         System.out.print(result);
