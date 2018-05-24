@@ -10,5 +10,6 @@
 	<classpathentry kind="src" path="牛客练习赛13"/>
 	<classpathentry kind="src" path="Wannafly挑战赛12"/>
 	<classpathentry kind="src" path="网易2018校招内推编程题集合"/>
+	<classpathentry kind="src" path="template"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
