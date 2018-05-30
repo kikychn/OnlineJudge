@@ -8,7 +8,7 @@ import java.util.Stack;
  * 输入一个链表的头结点，从尾到头反过来打印出每个结点的值
  * 注：典型的后进先出，可以考虑用栈实现
  */
-public class t5_PrintListFromTailToHead {
+public class t05_PrintListFromTailToHead {
 
     public static class ListNode {
         int val;
